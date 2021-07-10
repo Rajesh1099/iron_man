@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iron_man/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/iron_man/static/js/main.3d29c3e8.chunk.js",
-    "main.js.map": "/iron_man/static/js/main.3d29c3e8.chunk.js.map",
+    "main.js": "/iron_man/static/js/main.e37d2748.chunk.js",
+    "main.js.map": "/iron_man/static/js/main.e37d2748.chunk.js.map",
     "runtime-main.js": "/iron_man/static/js/runtime-main.5cdd1286.js",
     "runtime-main.js.map": "/iron_man/static/js/runtime-main.5cdd1286.js.map",
     "static/js/2.ba1657e9.chunk.js": "/iron_man/static/js/2.ba1657e9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5cdd1286.js",
     "static/js/2.ba1657e9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3d29c3e8.chunk.js"
+    "static/js/main.e37d2748.chunk.js"
   ]
 }
