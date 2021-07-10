@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iron_man/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/iron_man/static/js/main.8bfb4753.chunk.js",
+    "main.js.map": "/iron_man/static/js/main.8bfb4753.chunk.js.map",
+    "runtime-main.js": "/iron_man/static/js/runtime-main.5cdd1286.js",
+    "runtime-main.js.map": "/iron_man/static/js/runtime-main.5cdd1286.js.map",
+    "static/js/2.ba1657e9.chunk.js": "/iron_man/static/js/2.ba1657e9.chunk.js",
+    "static/js/2.ba1657e9.chunk.js.map": "/iron_man/static/js/2.ba1657e9.chunk.js.map",
+    "static/js/3.0d5cd260.chunk.js": "/iron_man/static/js/3.0d5cd260.chunk.js",
+    "static/js/3.0d5cd260.chunk.js.map": "/iron_man/static/js/3.0d5cd260.chunk.js.map",
+    "index.html": "/iron_man/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/iron_man/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ba1657e9.chunk.js.LICENSE.txt": "/iron_man/static/js/2.ba1657e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cdd1286.js",
+    "static/js/2.ba1657e9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8bfb4753.chunk.js"
+  ]
+}
